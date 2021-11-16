@@ -1,0 +1,41 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Optimization"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Social Science",
+      "Economics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "3e4238ff-1b03-66f8-5ad3-2229e76b5092"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Dynamic Optimization Methods with Applications",
+  "course_description": "This course focuses on dynamic optimization methods, both in discrete and in continuous time. We approach these problems from a dynamic programming and optimal control perspective. We also study the dynamic systems that come from the solutions to these problems. The course will illustrate how these techniques are useful in various applications, drawing on many economic examples. However, the focus will remain on gaining a general command of the tools so that they can be applied later in other classes.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.451",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
